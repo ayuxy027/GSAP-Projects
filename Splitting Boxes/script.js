@@ -1,5 +1,6 @@
 gsap.to("#box", {
     x:1000,
+    y:100,
     duration: 4,
     delay : 1,
     rotate:360,
@@ -10,8 +11,8 @@ gsap.to("#box", {
 )
 
 gsap.to("#box2", {
-    x:500,
-    y:160,
+    x:250,
+    y:200,
     duration: 4,
     rotate:360,
     delay : 1.5,
@@ -24,6 +25,7 @@ gsap.to("#box2", {
 
 gsap.to("#text", {
     x:700,
+    y:150,
     duration: 4,
     delay : 1,
     scale:1.75

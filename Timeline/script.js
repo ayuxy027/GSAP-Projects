@@ -12,7 +12,7 @@ tl.to("#text1", {
 
 tl.to("#text2", {
     x:400,
-    duration: 0.7,
+    duration: 0.9,
     delay: 0.5,
     y:250,
     stagger:0.3
